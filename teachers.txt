@@ -1,5 +1,0 @@
-name, id_num, doj, Department
-nav,5,5/5/5555,bio
-ayu,2,2/2/2222,phy
-dan,1,1/1/1111,comp
-mas,3,6/6/6666,che
