@@ -1,0 +1,5 @@
+name, id_num, dob, subject
+guv,1,4/4/4444,maths
+kris,2,8/8/88888,jlkjlfsk
+man,4,4/4/4444,che
+rek,3,10/10/2018,phy
